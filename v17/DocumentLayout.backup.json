@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rnd_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rnd_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\blendshapeanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\blendshapeanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\blendshapeanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\blendshapeanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rnd_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rnd_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\script\\shootingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,11 +19,11 @@
       "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\aimui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\script\\prizephysics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\script\\prizephysics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\prizephysics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rotationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rotationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rotationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Rnd_Animation.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\Rnd_Animation.cs",
               "RelativeDocumentMoniker": "Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\Rnd_Animation.cs",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BlendShapeAnimator.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\BlendShapeAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\BlendShapeAnimator.cs",
               "ToolTip": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\BlendShapeAnimator.cs",
               "RelativeToolTip": "Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\BlendShapeAnimator.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T13:36:57.65Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\RotationScript.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T00:35:44.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T00:35:44.506Z"
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "Assets\\Script\\PrizePhysics.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAwAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T10:57:13.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T10:57:13.378Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "Assets\\Script\\AimUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T20:38:56.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T20:38:56.399Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "Assets\\Script\\ShootingManager.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAQwEQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T22:22:58.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T22:22:58.107Z"
             }
           ]
         }
