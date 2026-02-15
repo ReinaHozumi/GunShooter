@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\script\\platfomrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\platfomrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\movezengo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\movezengo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\assetstoretools\\52specialeffectpack\\animation\u0026script\\csshowalleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\52specialeffectpack\\animation\u0026script\\csshowalleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\script\\moveup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\moveup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\MoveUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MoveUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\script\\platfomrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\platfomrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\script\\hitboxaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hitboxaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\assetstoretools\\52specialeffectpack\\animation\u0026script\\csshowalleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\52specialeffectpack\\animation\u0026script\\csshowalleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\script\\shootingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rotationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\ithappy\\sweet_land\\scripts\\rotationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\PlatformUpDown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\PlatformUpDown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,6 +71,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MoveZengo.cs",
+              "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\MoveZengo.cs",
+              "RelativeDocumentMoniker": "Assets\\MoveZengo.cs",
+              "ToolTip": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\MoveZengo.cs",
+              "RelativeToolTip": "Assets\\MoveZengo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:50:42.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\MoveUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MoveUp.cs",
+              "ToolTip": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\MoveUp.cs",
+              "RelativeToolTip": "Assets\\Script\\MoveUp.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:35:43.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveUp.cs",
+              "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\MoveUp.cs",
+              "RelativeDocumentMoniker": "Assets\\MoveUp.cs",
+              "ToolTip": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\MoveUp.cs",
+              "RelativeToolTip": "Assets\\MoveUp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T18:59:25.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlatformUpDown.cs",
+              "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\PlatformUpDown.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlatformUpDown.cs",
+              "ToolTip": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\PlatformUpDown.cs",
+              "RelativeToolTip": "Assets\\Script\\PlatformUpDown.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T17:44:21.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlatfomRotation.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\PlatfomRotation.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlatfomRotation.cs",
@@ -62,12 +127,11 @@
               "RelativeToolTip": "Assets\\Script\\PlatfomRotation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T19:16:40.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T19:16:40.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "csShowAllEffect.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\AssetStoreTools\\52SpecialEffectPack\\Animation\u0026Script\\csShowAllEffect.cs",
               "RelativeDocumentMoniker": "Assets\\AssetStoreTools\\52SpecialEffectPack\\Animation\u0026Script\\csShowAllEffect.cs",
@@ -75,24 +139,23 @@
               "RelativeToolTip": "Assets\\AssetStoreTools\\52SpecialEffectPack\\Animation\u0026Script\\csShowAllEffect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T18:54:22.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:54:22.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HitboxAction.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\HitboxAction.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\HitboxAction.cs",
               "ToolTip": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\HitboxAction.cs",
               "RelativeToolTip": "Assets\\Script\\HitboxAction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T16:54:37.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Rnd_Animation.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\Rnd_Animation.cs",
               "RelativeDocumentMoniker": "Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\Rnd_Animation.cs",
@@ -104,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "BlendShapeAnimator.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\BlendShapeAnimator.cs",
               "RelativeDocumentMoniker": "Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\BlendShapeAnimator.cs",
@@ -116,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "RotationScript.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\RotationScript.cs",
               "RelativeDocumentMoniker": "Assets\\AssetStoreTools\\ithappy\\Sweet_Land\\Scripts\\RotationScript.cs",
@@ -128,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PrizePhysics.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\PrizePhysics.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PrizePhysics.cs",
@@ -140,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AimUI.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\AimUI.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\AimUI.cs",
@@ -152,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ShootingManager.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\ShootingManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ShootingManager.cs",
