@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\script\\hitboxaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hitboxaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\script\\platfomrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\platfomrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|c:\\users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\development\\my-project\\gunshooter\\assets\\assetstoretools\\52specialeffectpack\\animation\u0026script\\csshowalleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\assetstoretools\\52specialeffectpack\\animation\u0026script\\csshowalleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\assetstoretools\\52specialeffectpack\\animation\u0026script\\csshowalleffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\script\\hitboxaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hitboxaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57DC7074-1DBD-5BBF-4FAE-0B7DC4F01FB0}|Assembly-CSharp.csproj|C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\assets\\script\\shootingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlatfomRotation.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\PlatfomRotation.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlatfomRotation.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "csShowAllEffect.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\AssetStoreTools\\52SpecialEffectPack\\Animation\u0026Script\\csShowAllEffect.cs",
               "RelativeDocumentMoniker": "Assets\\AssetStoreTools\\52SpecialEffectPack\\Animation\u0026Script\\csShowAllEffect.cs",
@@ -75,20 +75,20 @@
               "RelativeToolTip": "Assets\\AssetStoreTools\\52SpecialEffectPack\\Animation\u0026Script\\csShowAllEffect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T18:54:22.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:54:22.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HitboxAction.cs",
               "DocumentMoniker": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\HitboxAction.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\HitboxAction.cs",
               "ToolTip": "C:\\Users\\\u30DB\u30B8\u30E5\u30F3\u69D8\\Development\\my-project\\GunShooter\\Assets\\Script\\HitboxAction.cs",
               "RelativeToolTip": "Assets\\Script\\HitboxAction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T16:54:37.111Z"
+              "WhenOpened": "2026-02-14T16:54:37.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
